@@ -30,6 +30,11 @@ So far, yes. I like overcoming issues. It feels good.
 <strong>What are movies?</strong>
 Really man? Seriously? Have you been living under a rock. A movie is a motion picture, commonly accompanied by sound. Images move. Tell story. Make money. You have a lot to catch up on. 
 </ol>
+<ol>
+<strong>I want to make a website, but don't want to spend money. What should I do?</strong>
+Use a free online creator called wordpress. It's super easy to use and is free.
+</ol>
+
 Sad? Look at this cute pig eating ice cream: 
 
 :pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig:
