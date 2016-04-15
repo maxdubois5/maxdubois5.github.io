@@ -26,6 +26,10 @@ No
 <strong>Do you like making websites?</strong>
 So far, yes. I like overcoming issues. It feels good.
 </ol>
+<ol>
+<strong>What are movies?</strong>
+Really man? Seriously? Have you been living under a rock. A movie is a motion picture, commonly accompanied by sound. Images move. Tell story. Make money. You have a lot to catch up on. 
+</ol>
 Sad? Look at this cute pig eating ice cream: 
 
 <img src="http://cdn1.theodysseyonline.com/files/2015/10/21/635809863847228969126235165_1200.jpg" width="300">
