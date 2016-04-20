@@ -1,39 +1,34 @@
 # maxdubois5.github.io
 This is a readme file created by Max DuBois. I made this .io for my webpage Development class. It is a project we are doing. I choose the subject of my website as movies. More specifically, my favorites and least favorites, and why I like or dislike them.
 # FAQ
-<ol>
 
-<strong>Why did I make this?</strong>
+
+**Why did I make this?**
 I made this for a class in school. It is a project.
-</ol>
-<ol>
-<strong>What grade did you get on it?</strong>
+
+
+**What grade did you get on it?**
 I don't know yet. It is not finished.
-</ol>
-<ol>
-<strong>How did you make this?</strong>
+
+
+**How did you make this?**
 Using very expensive code editing tools. Mainly Abdobe Dreamweaver CS6. Also a litle bit of Brackets.
-</ol>
-<ol>
-<strong>Is this your first website?</strong>
+
+**Is this your first website?**
 Yes
-</ol>
-<ol>
-<strong>Was it easy to make?</strong>
+
+**Was it easy to make?**
 No
-</ol>
-<ol>
-<strong>Do you like making websites?</strong>
+
+**Do you like making websites?**
 So far, yes. I like overcoming issues. It feels good.
-</ol>
-<ol>
-<strong>What are movies?</strong>
+
+**What are movies?**
 Really man? Seriously? Have you been living under a rock. A movie is a motion picture, commonly accompanied by sound. Images move. Tell story. Make money. You have a lot to catch up on. 
-</ol>
-<ol>
-<strong>I want to make a website, but don't want to spend money. What should I do?</strong>
+
+**I want to make a website, but don't want to spend money. What should I do?**
 Use a free online creator called wordpress. It's super easy to use and is free.
-</ol>
+
 
 
 
