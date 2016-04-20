@@ -36,7 +36,7 @@ Use a free online creator called wordpress. It's super easy to use and is free.
 
 :pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig:
 
-<img src="http://cdn1.theodysseyonline.com/files/2015/10/21/635809863847228969126235165_1200.jpg" width="300">
+![Cute Pig] (http://cdn1.theodysseyonline.com/files/2015/10/21/635809863847228969126235165_1200.jpg)
 
 :pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig::pig:
 
