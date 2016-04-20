@@ -3,30 +3,30 @@ This is a readme file created by Max DuBois. I made this .io for my webpage Deve
 # FAQ
 
 
-**Why did I make this?**
+***Why did I make this?***
 I made this for a class in school. It is a project.
 
 
-**What grade did you get on it?**
+***What grade did you get on it?***
 I don't know yet. It is not finished.
 
 
-**How did you make this?**
+***How did you make this?***
 Using very expensive code editing tools. Mainly Abdobe Dreamweaver CS6. Also a litle bit of Brackets.
 
-**Is this your first website?**
+***Is this your first website?***
 Yes
 
-**Was it easy to make?**
+***Was it easy to make?***
 No
 
-**Do you like making websites?**
+***Do you like making websites?***
 So far, yes. I like overcoming issues. It feels good.
 
-**What are movies?**
+***What are movies?***
 Really man? Seriously? Have you been living under a rock. A movie is a motion picture, commonly accompanied by sound. Images move. Tell story. Make money. You have a lot to catch up on. 
 
-**I want to make a website, but don't want to spend money. What should I do?**
+***I want to make a website, but don't want to spend money. What should I do?***
 Use a free online creator called wordpress. It's super easy to use and is free.
 
 
